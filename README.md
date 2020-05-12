@@ -1,3 +1,17 @@
+# 테일윈드를 사용한 컴포넌트 (수정 중 입니다! :D)
+1. card component
+  - 일반
+  - 프로필형
+  - 가로형
+  - 세로형
+
+2. list component
+3. table component
+4. ....추가 예정...
+
+
+
+
 # [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Starter Template](https://www.tailwindtoolbox.com/setup)
 
 It's pretty straight forward to setup [Tailwind CSS](https://www.tailwindcss.com/) and give it a test spin using the CDN version. However, as mentioned on the Tailwind site, you need to setup Tailwind using npm in order to start customising Tailwind.
