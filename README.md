@@ -1,9 +1,8 @@
 # 테일윈드를 사용한 컴포넌트 (수정 중 입니다! :D)
 1. card component
-  - 일반
-  - 프로필형
-  - 가로형
-  - 세로형
+  - 기본
+  - 프로필
+  - 기타
 
 2. list component
 3. table component
